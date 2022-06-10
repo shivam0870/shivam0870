@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... 
-- 🌱 I’m currently learning DSA & Express Js
+- 🌱 I’m currently learning DSA & MongoDB
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with Solving problems of Data structures and algorithms
 - 💬 Ask me about DS,ALGO<FRONT-END DEVELOPMENT, REACT-JS and NODE-JS

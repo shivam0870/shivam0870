@@ -1,5 +1,6 @@
 ### Hi, here is what is i am learning! 👋
-![pic-1](https://user-images.githubusercontent.com/96368173/182972907-1374d51e-2784-4ebc-aa2d-945ea49de6f8.png)
+
+![3610](https://user-images.githubusercontent.com/96368173/182973631-b85a41cf-ba5f-4020-88b9-750c690c8675.png)
 
 
 **shivam0870/shivam0870** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,5 +14,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about DS,ALGO<FRONT-END DEVELOPMENT, REACT-JS and NODE-JS
 - 📫 How to reach me: https://shivam0870.github.io/port1/ This is my personal portfolio website
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: 
 

@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about DS,ALGO<FRONT-END DEVELOPMENT, REACT-JS and NODE-JS
 - 📫 How to reach me: https://shivam0870.github.io/port1/ This is my personal portfolio website
 - 😄 Pronouns: ...
-- ⚡ Fun fact: 
+- ⚡ Fun fact:  
 
-https://camo.githubusercontent.com/5f7bd91c0cfa61eff4505f66a7792de9d953424eb2df4172c72e7a7c6f8e9790/68747470733a2f2f692e737461636b2e696d6775722e636f6d2f4e534879672e676966
+![68747470733a2f2f692e737461636b2e696d6775722e636f6d2f4e534879672e676966](https://user-images.githubusercontent.com/96368173/186652555-a80c7169-76eb-49da-870c-da7a7951b687.gif)

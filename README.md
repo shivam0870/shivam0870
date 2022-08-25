@@ -1,5 +1,10 @@
 ### Hi, here is what is i am learning! 👋
 
+![68747470733a2f2f692e737461636b2e696d6775722e636f6d2f4e534879672e676966](https://user-images.githubusercontent.com/96368173/186652641-b9fd542f-a6f1-4685-b8b2-176ffc07fc63.gif)
+
+
+
+
 ![3610](https://user-images.githubusercontent.com/96368173/182973631-b85a41cf-ba5f-4020-88b9-750c690c8675.png)
 
 
@@ -16,4 +21,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact:  
 
-![68747470733a2f2f692e737461636b2e696d6775722e636f6d2f4e534879672e676966](https://user-images.githubusercontent.com/96368173/186652555-a80c7169-76eb-49da-870c-da7a7951b687.gif)

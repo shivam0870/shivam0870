@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Shivam Kumar Singh</h1>
 <h3 align="center">A passionate developer</h3>
 
-<img align = "right" alt = "Coding" width = "300" src = "https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif">
+<img align = "right" alt = "Coding" width = "200"  src = "https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif">
 
 
 

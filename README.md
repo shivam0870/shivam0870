@@ -16,9 +16,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **MongoDb and Data Structures and Algorithms**
+- 🌱 I’m currently learning **Data Structures and Algorithms**
 
-- 👯 I’m looking to collaborate on **Full Stack Web development Project**
+- 👯 I’m looking to collaborate on **Full Stack Web development Project with MERN Stack**
 
 - 🤝 I’m looking for help with **Data structures and Algorithms and MongoDb**
 

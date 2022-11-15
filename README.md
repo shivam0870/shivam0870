@@ -20,7 +20,7 @@
 
 - 👯 I’m looking to collaborate on **Full Stack Web development Project with MERN Stack**
 
-- 🤝 I’m looking for help with **Data structures and Algorithms and MongoDb**
+- 🤝 I’m looking for help with **Data structures and Algorithms**
 
 - 👨‍💻 All of my projects are available at [https://shivam0870.github.io/port1/](https://shivam0870.github.io/port1/)
 

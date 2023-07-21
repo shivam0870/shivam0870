@@ -22,7 +22,7 @@
 
 - 🤝 I’m looking for help with **Data structures and Algorithms**
 
-- 👨‍💻 All of my projects are available at [https://shivam0870.github.io/port1/](https://dapper-palmier-10adf5.netlify.app/)
+- 👨‍💻 All of my projects are available at [Link](https://dapper-palmier-10adf5.netlify.app/)
 
 - 💬 Ask me about **React JS , CPP , Express and Node**
 

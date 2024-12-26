@@ -18,13 +18,13 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
-- 👯 I’m looking to collaborate on **Full Stack Web development Project with MERN Stack**
+- 👯 I’m looking to collaborate on **Full Stack Web development Projects**
 
 - 🤝 I’m looking for help with **Data structures and Algorithms**
 
 - 👨‍💻 Most of my projects are available at [Link](https://dapper-palmier-10adf5.netlify.app/)
 
-- 💬 Ask me about **React JS , CPP , Express and Node**
+- 💬 Ask me about **React JS , CPP , Express and Node, Typescript, NextJS, Redux**
 
 - 📫 How to reach me **shivamkrsingh4688@gmail.com**
 
